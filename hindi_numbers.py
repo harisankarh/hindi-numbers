@@ -1,6 +1,6 @@
 """
 Module to convert arabic numerals to devanagari
-author: harisankarh@gmail.com
+author: harisankarh
 """
 
 # adapted from https://www.omniglot.com/language/numbers/hindi.htm
