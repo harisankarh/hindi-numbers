@@ -1,5 +1,5 @@
 """
-Module to convert arabic numerals to devanagari text
+Module to convert Arabic numerals to Devanagari text
 author: harisankarh
 """
 
