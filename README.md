@@ -12,7 +12,7 @@ e.g., 2134 to 'दो हज़ार एक सौ चौंतीस'
 	assert arabic_to_dev(399) == 'तीन सौ निन्यानवे'
 
 ## Compatibility
-Tested with 3.6.8 and 3.7.4
+Tested with Python 3.6.8 and 3.7.4
 
 ## License
 MIT license
